@@ -30,6 +30,6 @@ hs_err_pid*
 *.iml
 *.ipr
 
-.DS_STORE
+**/.DS_Store
 
 */target/**
